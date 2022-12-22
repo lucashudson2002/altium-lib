@@ -18,6 +18,7 @@ Biblioteca de componentes que criei para o Altium Designer.
 - CONECTOR JST 2.54mm DE 6 PINOS
 - L7805
 - LM2596
+- LED GENÉRICO
 - BUCK STEP DOWN LM2596
 - MÓDULO PONTE H TB6612FNG
 - BUCK STEP DOWN XL4005
