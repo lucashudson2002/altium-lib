@@ -5,26 +5,42 @@ Component's library I created for Altium Designer.
 ## Arduino
 - Arduino Pro Mini
 - Arduino Nano
-- ATMEGA239-PU
+- Arduino Nano NRF24L01 (progress)
+- ATMEGA328-PU
 
-## Buttons
+## Buttons & Switches
 - Toggle Switch
 - SS12F23
 - SS12F15
 - SS12D07L2B
 - SS12D00G4
+- Push Button 12x12 (progress)
 - Push Button 6x6
 - Dip Switch 3 Vias
-- Lock Button 6 Pin 8x8
-- Lock Button 6 Pin 7x7
+- Button Latch 6 Pins 8x8
+- Button Latch 6 Pins 7x7
+
+## Communication (progress)
+- XBEE
+- Shield Ethernet
+- RF433
+- NRF24L01 Antenna
+- NRF24L01
+- Infrared Receiver Module
+- Infrared Receiver
+- HC-06
+- HC-05
 
 ## Connectors
-- JST 2 Pin
-- JST 3 Pin
-- JST 6 Pin
+- XT-60 (progress)
+- JST 2 Pins
+- JST 3 Pins
+- JST 6 Pins
 - Jack P4
 - DIP 28 Pins
 - DIP 16 Pins
+- Borne KRE 3 vias 180 (progress)
+- Borne KRE 2 vias 180 (progress)
 
 ## Espressif Microcontrollers
 - ESP-12F
@@ -34,12 +50,35 @@ Component's library I created for Altium Designer.
 - ESP32 38 Pins
 - ESP32-WROOM-32
 
+## LED (progress)
+- LED RGB
+- LED 5mm
+- LED 0805
+
 ## Motor Drivers
 - TB6612FNG
+- Pololu TB6612FNG (progress)
 - Module TB6612FNG
+- Motor Shield L293D (progress)
 - L298N (progress)
 - L293D
 - DRV8874
+- A4988 (progress)
+
+## Other Microcontrollers (progress)
+- Raspberry Pi Pico
+- Blue Pill SMT32
+
+## Potenciometers (progress)
+- Joystick PS4
+
+## Random (progress)
+- MPU6050
+- HC-SR04
+- DHT11
+- Cristal 16Mhz
+- Buzzer 12mm
+- 74HC595
 
 ## Voltage Regulators
 - XL4005
@@ -50,4 +89,5 @@ Component's library I created for Altium Designer.
 - LM2596
 - LM1117T
 - L7805
+- HW-613 (progress)
 - AMS1117
