@@ -28,6 +28,7 @@ Component's library I created for Altium Designer.
 
 ## Espressif Microcontrollers
 - ESP-12F
+- ESP-01
 - ESP8266
 - ESP32 30 Pins
 - ESP32 38 Pins
