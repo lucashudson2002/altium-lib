@@ -14,33 +14,33 @@ Component's library I created for Altium Designer.
 - SS12F15
 - SS12D07L2B
 - SS12D00G4
-- Push Button 12x12 (progress)
+- Push Button 12x12
 - Push Button 6x6
 - Dip Switch 3 Vias
 - Button Latch 6 Pins 8x8
 - Button Latch 6 Pins 7x7
 
-## Communication (progress)
+## Communication
 - XBEE
-- Shield Ethernet
-- RF433
+- Shield Ethernet (progress)
+- RF433 (progress)
 - NRF24L01 Antenna
 - NRF24L01
-- Infrared Receiver Module
+- Infrared Receiver Module (progress)
 - Infrared Receiver
 - HC-06
 - HC-05
 
 ## Connectors
-- XT-60 (progress)
+- XT-60
 - JST 2 Pins
 - JST 3 Pins
 - JST 6 Pins
 - Jack P4
 - DIP 28 Pins
 - DIP 16 Pins
-- Borne KRE 3 vias 180 (progress)
-- Borne KRE 2 vias 180 (progress)
+- Borne KRE 3 vias 180
+- Borne KRE 2 vias 180
 
 ## Espressif Microcontrollers
 - ESP-12F
@@ -57,22 +57,22 @@ Component's library I created for Altium Designer.
 
 ## Motor Drivers
 - TB6612FNG
-- Pololu TB6612FNG (progress)
+- Pololu TB6612FNG
 - Module TB6612FNG
 - Motor Shield L293D (progress)
 - L298N (progress)
 - L293D
 - DRV8874
-- A4988 (progress)
+- A4988
 
-## Other Microcontrollers (progress)
+## Other Microcontrollers
 - Raspberry Pi Pico
 - Blue Pill SMT32
 
 ## Potenciometers (progress)
 - Joystick PS4
 
-## Random (progress)
+## Random
 - MPU6050
 - HC-SR04
 - DHT11
