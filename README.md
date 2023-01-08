@@ -50,7 +50,7 @@ Component's library I created for Altium Designer.
 - ESP32 38 Pins
 - ESP32-WROOM-32
 
-## LED (progress)
+## LED
 - LED RGB
 - LED 5mm
 - LED 0805
