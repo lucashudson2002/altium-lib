@@ -1,6 +1,7 @@
 # altium-lib
 
 Component's library I created for Altium Designer.
+## Aluminum Capacitor (progress)
 
 ## Arduino
 - Arduino Pro Mini
@@ -19,6 +20,13 @@ Component's library I created for Altium Designer.
 - Dip Switch 3 Vias
 - Button Latch 6 Pins 8x8
 - Button Latch 6 Pins 7x7
+
+## Ceramic Capacitor
+- 0805 generic
+- 22
+- 103
+- 104
+- 220
 
 ## Communication
 - XBEE
@@ -40,7 +48,18 @@ Component's library I created for Altium Designer.
 - DIP 28 Pins
 - DIP 16 Pins
 - Borne KRE 3 vias 180
-- Borne KRE 2 vias 180
+- Borne KRE 2 vias 1800
+
+## Diode
+- 1N4007
+- 1N5819
+- M7
+
+## Electrolytic Capacitor
+- 1uF/50V
+- 10uF/25V
+- 10uF/50V
+- 1uF/63V
 
 ## Espressif Microcontrollers
 - ESP-12F
@@ -52,8 +71,8 @@ Component's library I created for Altium Designer.
 
 ## LED
 - LED RGB
-- LED 5mm
-- LED 0805
+- LED 5mm (blue, green, orange, red, transparent, yellow)
+- LED 0805 (blue, green, red, white, yellow)
 
 ## Motor Drivers
 - TB6612FNG
@@ -79,6 +98,10 @@ Component's library I created for Altium Designer.
 - Cristal 16Mhz
 - Buzzer 12mm
 - 74HC595
+
+## Resistors
+- 0805 1k
+- 0805 generic
 
 ## Voltage Regulators
 - XL4005
