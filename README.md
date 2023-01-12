@@ -10,12 +10,14 @@ Component's library I created for Altium Designer.
 - ATMEGA328-PU
 
 ## Buttons & Switches
+- TST3635
 - Toggle Switch
 - SS12F23
 - SS12F15
 - SS12D07L2B
 - SS12D00G4
 - Push Button 12x12
+- Push Button 6x6 SMD
 - Push Button 6x6
 - Dip Switch 3 Vias
 - Button Latch 6 Pins 8x8
@@ -41,9 +43,9 @@ Component's library I created for Altium Designer.
 
 ## Connectors
 - XT-60
-- JST 2 Pins
-- JST 3 Pins
-- JST 6 Pins
+- JST 2 Pins 2.54mm
+- JST 3 Pins 2.54mm
+- JST 6 Pins 2.54mm
 - Jack P4
 - DIP 28 Pins
 - DIP 16 Pins
@@ -88,7 +90,10 @@ Component's library I created for Altium Designer.
 - Raspberry Pi Pico
 - Blue Pill SMT32
 
-## Potenciometers (progress)
+## Potenciometers
+- Trimpot 3296
+- Trimpot
+- Potenciometer
 - Joystick PS4
 
 ## Random
@@ -100,7 +105,6 @@ Component's library I created for Altium Designer.
 - 74HC595
 
 ## Resistors
-- 0805 1k
 - 0805 generic
 
 ## Voltage Regulators
