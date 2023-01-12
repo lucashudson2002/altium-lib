@@ -106,6 +106,10 @@ Component's library I created for Altium Designer.
 
 ## Resistors
 - 0805 generic
+- resistor pth 9.5mm
+- resistor pth 10mm
+- resistor pth 12.5mm
+- resistor pth 14.5mm
 
 ## Voltage Regulators
 - XL4005
