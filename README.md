@@ -29,7 +29,7 @@ Component's library I created for Altium Designer.
 - 22
 - 103
 - 104
-- 220
+- 220 (3d)
 
 ## Communication
 - XBEE
@@ -119,7 +119,7 @@ Component's library I created for Altium Designer.
 - resistor pth 14.5mm
 
 ## Voltage Regulators
-- XL4005
+- XL4005 (3d)
 - TPS73733
 - Module XL4005
 - Module LM2596
@@ -127,5 +127,5 @@ Component's library I created for Altium Designer.
 - LM2596
 - LM1117T
 - L7805
-- HW-613 (progress)
+- HW-613
 - AMS1117
