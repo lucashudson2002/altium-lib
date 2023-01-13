@@ -43,10 +43,15 @@ Component's library I created for Altium Designer.
 
 ## Connectors
 - XT-60
+- Socket 15 Pins
+- Socket 8 Pins
+- Socket 4x2 Pins
+- Socket 3 Pins
 - JST 2 Pins 2.54mm
 - JST 3 Pins 2.54mm
 - JST 6 Pins 2.54mm
 - Jack P4
+- Header 8 Pins
 - DIP 28 Pins
 - DIP 16 Pins
 - Borne KRE 3 vias 180
