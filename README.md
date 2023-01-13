@@ -19,6 +19,7 @@ Component's library I created for Altium Designer.
 - Push Button 12x12
 - Push Button 6x6 SMD
 - Push Button 6x6
+- Push Button 5.2x5.2 SMD
 - Dip Switch 3 Vias
 - Button Latch 6 Pins 8x8
 - Button Latch 6 Pins 7x7
