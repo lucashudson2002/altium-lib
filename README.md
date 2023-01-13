@@ -85,6 +85,7 @@ Component's library I created for Altium Designer.
 ## Motor Drivers
 - TB6612FNG
 - Pololu TB6612FNG
+- Pololu DRV8256
 - Module TB6612FNG
 - Motor Shield L293D (progress)
 - L298N (progress)
