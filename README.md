@@ -1,7 +1,21 @@
 # altium-lib
 
 Component's library I created for Altium Designer.
-## Aluminum Capacitor (progress)
+
+## Aluminum Capacitor
+- 1uF/50V
+- 2.2uF/50V
+- 4.7uF/50V
+- 10uF/16V
+- 10uF/25V
+- 22uF/16V
+- 22uF/25V
+- 47uF/10V
+- 47uF/16V
+- 100uF/10V
+- 100uF/16V
+- 220uF/10V
+- 220uF/16V
 
 ## Arduino
 - Arduino Pro Mini
@@ -59,15 +73,44 @@ Component's library I created for Altium Designer.
 - Borne KRE 2 vias 1800
 
 ## Diode
-- 1N4007
-- 1N5819
+- ES1M
+- ES1J
+- ES1D
 - M7
+- M4
+- M1
+- SS220
+- SS510
+- SS310
+- SS210
+- SS110
+- SS36
+- SS26
+- SS16
+- SS34
+- SS24
+- SS14
+- 1N5819
+- 1N4007
+- US1M
+- RS2M
+- RS1M
 
 ## Electrolytic Capacitor
+- 0.22uF/50v
+- 0.47uF/50v
 - 1uF/50V
+- 2.2uF/50V
+- 4.7uF/50V
 - 10uF/25V
 - 10uF/50V
-- 1uF/63V
+- 10uF/63V
+- 22uF/16V
+- 33uF/16V
+- 47uF/16V
+- 100uF/16V
+- 220uF/16V
+- 470uF/16V
 
 ## Espressif Microcontrollers
 - ESP-12F
@@ -79,7 +122,7 @@ Component's library I created for Altium Designer.
 
 ## LED
 - LED RGB
-- LED 5mm (blue, green, orange, red, transparent, yellow)
+- LED 5mm (blue, green, orange, red, white, yellow)
 - LED 0805 (blue, green, red, white, yellow)
 
 ## Motor Drivers
