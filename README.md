@@ -73,28 +73,32 @@ Component's library I created for Altium Designer.
 - Borne KRE 2 vias 1800
 
 ## Diode
-- ES1M
-- ES1J
-- ES1D
-- M7
-- M4
-- M1
-- SS220
-- SS510
-- SS310
-- SS210
-- SS110
-- SS36
-- SS26
-- SS16
-- SS34
-- SS24
-- SS14
-- 1N5819
 - 1N4007
-- US1M
-- RS2M
+- 1N4148
+- 1N5399
+- 1N5408
+- 1N5819
+- 1N5822
+- ES1D
+- ES1J
+- ES1M
+- M1
+- M4
+- M7
 - RS1M
+- RS2M
+- SS14
+- SS16
+- SS24
+- SS26
+- SS34
+- SS36
+- SS110
+- SS210
+- SS220
+- SS310
+- SS510
+- US1M
 
 ## Electrolytic Capacitor
 - 0.22uF/50v
