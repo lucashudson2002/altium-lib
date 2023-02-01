@@ -152,6 +152,7 @@ Component's library I created for Altium Designer.
 
 ## Random
 - MPU6050
+- LDR 3mm
 - HC-SR04
 - DHT11
 - Cristal 16Mhz
