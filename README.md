@@ -151,20 +151,25 @@ Component's library I created for Altium Designer.
 - Joystick PS4
 
 ## Random
-- MPU6050
-- LDR 3mm
-- HC-SR04
-- DHT11
 - Cristal 16Mhz
 - Buzzer 12mm
 - 74HC595
 
 ## Resistors
 - 0805 generic
-- resistor pth 9.5mm
-- resistor pth 10mm
-- resistor pth 12.5mm
-- resistor pth 14.5mm
+- Resistor pth 9.5mm
+- Resistor pth 10mm
+- Resistor pth 12.5mm
+- Resistor pth 14.5mm
+
+## Sensors
+- QRE1113
+- MPU6050
+- LDR 3mm
+- HC-SR04
+- DHT11
+- BMP280
+- BMP180
 
 ## Voltage Regulators
 - XL4005 (3d)
