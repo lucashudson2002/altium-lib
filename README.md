@@ -100,6 +100,13 @@ Component's library I created for Altium Designer.
 - SS510
 - US1M
 
+## Displays
+- Display 4 Digits 7 Segments
+- DIsplay 7 Segments
+- Display Bar
+- Display LCD 16x2
+- Display OLED I2C
+
 ## Electrolytic Capacitor
 - 0.22uF/50v
 - 0.47uF/50v
