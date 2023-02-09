@@ -170,6 +170,7 @@ Component's library I created for Altium Designer.
 - Resistor pth 14.5mm
 
 ## Sensors
+- TCRT5000
 - QRE1113
 - MPU6050
 - LDR 3mm
