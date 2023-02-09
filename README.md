@@ -48,7 +48,7 @@ Component's library I created for Altium Designer.
 ## Communication
 - XBEE
 - Shield Ethernet (progress)
-- RF433 (progress)
+- RF433 Transmitter and Receiver
 - NRF24L01 Antenna
 - NRF24L01
 - Infrared Receiver Module (progress)
