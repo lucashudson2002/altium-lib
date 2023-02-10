@@ -161,6 +161,7 @@ Component's library I created for Altium Designer.
 - Cristal 16Mhz
 - Buzzer 12mm
 - 74HC595
+- TP4056
 
 ## Resistors
 - 0805 generic
