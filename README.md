@@ -131,6 +131,10 @@ Component's library I created for Altium Designer.
 - ESP32 38 Pins
 - ESP32-WROOM-32
 
+## Inductor
+- 1040
+- 12x12x7
+
 ## LED
 - LED RGB
 - LED 5mm (blue, green, orange, red, white, yellow)
@@ -152,16 +156,17 @@ Component's library I created for Altium Designer.
 - Blue Pill SMT32
 
 ## Potenciometers
-- Trimpot 3296
 - Trimpot
+- Potenciometer SMD
 - Potenciometer
 - Joystick PS4
 
 ## Random
+- TP4056 Chip and Module
+- DW01A
 - Cristal 16Mhz
 - Buzzer 12mm
 - 74HC595
-- TP4056
 
 ## Resistors
 - 0805 generic
@@ -179,6 +184,11 @@ Component's library I created for Altium Designer.
 - DHT11
 - BMP280
 - BMP180
+
+## Transistors
+- 8205s
+- FS8205A
+- J3Y
 
 ## Voltage Regulators
 - XL4005 (3d)
