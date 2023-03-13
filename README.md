@@ -28,7 +28,9 @@ Component's library I created for Altium Designer.
 - Toggle Switch
 - SS12F23
 - SS12F15
+- SS12D10
 - SS12D07L2B
+- SS12D06
 - SS12D00G4
 - Push Button 12x12
 - Push Button 6x6 SMD
@@ -163,9 +165,11 @@ Component's library I created for Altium Designer.
 
 ## Random
 - TP4056 Chip and Module
+- SN74AHCT1G04DBVR
 - DW01A
 - Cristal 16Mhz
 - Buzzer 12mm
+- NE555
 - 74HC595
 
 ## Resistors
