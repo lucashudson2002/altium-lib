@@ -197,6 +197,7 @@ Component's library I created for Altium Designer.
 ## Voltage Regulators
 - XL4005 (3d)
 - TPS73733
+- TPS56121DQPR 
 - MT3608
 - Module XL4005
 - Module LM2596
