@@ -167,7 +167,7 @@ Component's library I created for Altium Designer.
 - TP4056 Chip and Module
 - SN74AHCT1G04DBVR
 - DW01A
-- Cristal 16Mhz
+- Cristal 16Mhz PTH and SMD
 - Buzzer 12mm
 - NE555
 - 74HC595
@@ -195,7 +195,7 @@ Component's library I created for Altium Designer.
 - J3Y
 
 ## Voltage Regulators
-- XL4005 (3d)
+- XL4005
 - TPS73733
 - TPS56121DQPR 
 - MT3608
@@ -204,6 +204,6 @@ Component's library I created for Altium Designer.
 - MINI350
 - LM2596
 - LM1117T
-- L7805
+- L7805 PTH and SMD
 - HW-613
 - AMS1117
