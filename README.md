@@ -22,6 +22,7 @@ Component's library I created for Altium Designer.
 - Arduino Nano
 - Arduino Nano NRF24L01 (progress)
 - ATMEGA328-PU
+- ATMEGA328P-AU
 
 ## Buttons & Switches
 - TST3635
@@ -36,7 +37,8 @@ Component's library I created for Altium Designer.
 - Push Button 6x6 SMD
 - Push Button 6x6
 - Push Button 5.2x5.2 SMD
-- Dip Switch 3 Vias
+- Push Button 3x4x2 SMD
+- Dip Switch 3 Vias PTH and SMD
 - Button Latch 6 Pins 8x8
 - Button Latch 6 Pins 7x7
 
@@ -59,31 +61,38 @@ Component's library I created for Altium Designer.
 - HC-05
 
 ## Connectors
-- XT-60
-- Socket 15 Pins
-- Socket 8 Pins
-- Socket 4x2 Pins
-- Socket 3 Pins
-- JST 2 Pins 2.54mm
-- JST 3 Pins 2.54mm
-- JST 6 Pins 2.54mm
+- XT-60 Male and Female
+- Female Header 15 Pins
+- Female Header 8 Pins
+- Female Header 4x2 Pins
+- Female Header 3 Pins
+- Micro USB
+- JST 2 Pins 2.54mm 90º
+- JST 2 Pins 2.54mm 180º
+- JST 3 Pins 2.54mm 180º
+- JST 6 Pins 2.54mm 180º
 - Jack P4
-- Header 8 Pins
+- Male Header 8 Pins
+- Male Header 5 Pins
+- Male Header 4 Pins
 - DIP 28 Pins
 - DIP 16 Pins
 - DF3-3P-2DSA
 - DF3-3P-2DS
 - DC3-2.54-10PAS (footprint and 3d)
-- Borne KRE 3 vias 180
-- Borne KRE 2 vias 1800
+- Borne KRE 4 vias 180º
+- Borne KRE 3 vias 180º
+- Borne KRE 2 vias 180º
 
 ## Diode
 - 1N4007
 - 1N4148
+- 1N4736A
 - 1N5399
 - 1N5408
 - 1N5819
 - 1N5822
+- BMR120ESF
 - ES1D
 - ES1J
 - ES1M
@@ -138,7 +147,7 @@ Component's library I created for Altium Designer.
 
 ## Inductor
 - 1040
-- 12x12x7
+- 1260
 
 ## LED
 - LED RGB
@@ -164,13 +173,18 @@ Component's library I created for Altium Designer.
 - Trimpot
 - Potenciometer SMD
 - Potenciometer
-- Joystick PS4
+- Joystick PS4 (3D)
 
 ## Random
 - TP4056 Chip and Module
 - SN74AHCT1G04DBVR
+- Rele
+- PC817
+- Micro Start
 - DW01A
+- DFPlayer Mini
 - Cristal 16Mhz PTH and SMD
+- Ceramic Resonator 3.2x1.3
 - Buzzer 12mm
 - NE555
 - 74HC595
@@ -194,7 +208,9 @@ Component's library I created for Altium Designer.
 
 ## Transistors
 - 8205s
+- WPM3407
 - FS8205A
+- FDN340P
 - J3Y
 
 ## Voltage Regulators
