@@ -79,7 +79,6 @@ Component's library I created for Altium Designer.
 - DIP 16 Pins
 - DF3-3P-2DSA
 - DF3-3P-2DS
-- DC3-2.54-10PAS (footprint and 3d)
 - Borne KRE 4 vias 180º
 - Borne KRE 3 vias 180º
 - Borne KRE 2 vias 180º
