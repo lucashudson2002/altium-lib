@@ -178,9 +178,10 @@ Component's library I created for Altium Designer.
 ## Random
 - TP4056 Chip and Module
 - SN74AHCT1G04DBVR
-- Rele
+- Rele General
 - PC817
 - Micro Start
+- G6k-2f-y
 - DW01A
 - DFPlayer Mini
 - Cristal 16Mhz PTH and SMD
