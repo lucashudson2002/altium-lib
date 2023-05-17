@@ -64,8 +64,9 @@ Component's library I created for Altium Designer.
 - XT-60 Male and Female
 - Female Header 15 Pins
 - Female Header 8 Pins
-- Female Header 4x2 Pins
 - Female Header 3 Pins
+- Female Header 2x4 Pins
+- Female Header 2x5 Pins
 - Micro USB
 - JST 2 Pins 2.54mm 90º
 - JST 2 Pins 2.54mm 180º
