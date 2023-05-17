@@ -72,9 +72,10 @@ Component's library I created for Altium Designer.
 - JST 3 Pins 2.54mm 180º
 - JST 6 Pins 2.54mm 180º
 - Jack P4
-- Male Header 8 Pins
-- Male Header 5 Pins
-- Male Header 4 Pins
+- Male Header 8 Pins 180º
+- Male Header 5 Pins 180º
+- Male Header 4 Pins 180º
+- Male Header 2x5 Pins 90º
 - DIP 28 Pins
 - DIP 16 Pins
 - DF3-3P-2DSA
