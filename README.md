@@ -24,6 +24,10 @@ Component's library I created for Altium Designer.
 - ATMEGA328-PU
 - ATMEGA328P-AU
 
+## Battery Holder
+- 9V
+- 1S 18650 PTH and SMD
+
 ## Buttons & Switches
 - TST3635
 - Toggle Switch
