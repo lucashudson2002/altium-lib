@@ -78,9 +78,10 @@ Component's library I created for Altium Designer.
 - JST 6 Pins 2.54mm 180º
 - Jack P4
 - Male Header 8 Pins 180º
+- Male Header 5x2 Pins 90º
+- Male Header 5x2 Pins 180º
 - Male Header 5 Pins 180º
 - Male Header 4 Pins 180º
-- Male Header 2x5 Pins 90º
 - DIP 28 Pins
 - DIP 16 Pins
 - DF3-3P-2DSA
@@ -97,6 +98,7 @@ Component's library I created for Altium Designer.
 - 1N5408
 - 1N5819
 - 1N5822
+- 1N5824
 - BMR120ESF
 - ES1D
 - ES1J
@@ -148,14 +150,17 @@ Component's library I created for Altium Designer.
 - ESP8266
 - ESP32 30 Pins
 - ESP32 38 Pins
-- ESP32-WROOM-32
+- ESP32-WROOM-32U
+- ESP32-WROOM-32D
 
 ## Inductor
 - 1040
 - 1260
+- Toroid 33uH 5A
 
 ## LED
-- LED RGB
+- LED RGB 5mm Common Cathode
+- LED RGB 5050
 - LED 5mm (blue, green, orange, red, white, yellow)
 - LED 0805 (blue, green, red, white, yellow)
 
