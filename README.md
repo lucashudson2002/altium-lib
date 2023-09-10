@@ -65,30 +65,54 @@ Component's library I created for Altium Designer.
 - HC-05
 
 ## Connectors
-- XT-60 Male and Female
-- Female Header 15 Pins
-- Female Header 8 Pins
-- Female Header 3 Pins
-- Female Header 2x4 Pins
-- Female Header 2x5 Pins
-- Micro USB
-- JST 2 Pins 2.54mm 90º
-- JST 2 Pins 2.54mm 180º
-- JST 3 Pins 2.54mm 180º
-- JST 6 Pins 2.54mm 180º
-- Jack P4
-- Male Header 8 Pins 180º
-- Male Header 5x2 Pins 90º
-- Male Header 5x2 Pins 180º
-- Male Header 5 Pins 180º
-- Male Header 4 Pins 180º
-- DIP 28 Pins
-- DIP 16 Pins
-- DF3-3P-2DSA
+- 2EDGK-5.08-3P
+- 2EDGK-5.08-6P
+- 2EDGVC-5.08-3P
+- 2EDGVC-5.08-6P
+- 15EDGVC-3.81-2P
+- ANTENNA-SMA 180º
+- ANTENNA-SMA 90º
+- Borne 3.81mm 3 vias 180º
+- Borne 5.00mm 2 vias 180º
+- Borne 5.00mm 3 vias 180º
+- Borne 5.00mm 4 vias 180º
 - DF3-3P-2DS
-- Borne KRE 4 vias 180º
-- Borne KRE 3 vias 180º
-- Borne KRE 2 vias 180º
+- DF3-3P-2DSA
+- DIP 16 Pins
+- DIP 28 Pins
+- Female 2.54mm 2x4 Pins
+- Female 2.54mm 2x5 Pins
+- Female 2.54mm 3 Pins
+- Female 2.54mm 6 Pins
+- Female 2.54mm 8 Pins
+- Female 2.54mm 15 Pins
+- IDC 2x5 Pins 90º
+- Jack P4
+- JST 2.00mm 2 Pins 180º
+- JST 2.00mm 3 Pins 180º
+- JST 2.00mm 4 Pins 180º
+- JST 2.00mm 5 Pins 180º
+- JST 2.00mm 6 Pins 180º
+- JST 2.54mm 2 Pins 180º
+- JST 2.54mm 2 Pins 90º
+- JST 2.54mm 3 Pins 180º
+- JST 2.54mm 4 Pins 180º
+- JST 2.54mm 6 Pins 180º
+- Male 2.54mm 1 Pins 180º
+- Male 2.54mm 2 Pins 180º
+- Male 2.54mm 2x5 Pins 180º
+- Male 2.54mm 2x5 Pins 90º
+- Male 2.54mm 3 Pins 180º
+- Male 2.54mm 4 Pins 180º
+- Male 2.54mm 5 Pins 180º
+- Male 2.54mm 6 Pins 180º
+- Male 2.54mm 8 Pins 180º
+- Male 2.54mm 10 Pins 180º
+- Male 2.54mm 14 Pins 180º
+- Male 2.54mm 15 Pins 180º
+- Micro USB
+- USB C
+- XT-60 Male and Female
 
 ## Diode
 - 1N4007
@@ -152,6 +176,8 @@ Component's library I created for Altium Designer.
 - ESP32 38 Pins
 - ESP32-WROOM-32U
 - ESP32-WROOM-32D
+- HELTEC ESP32 LORA V2
+- HELTEC ESP32 LORA V3
 
 ## Inductor
 - 1040
