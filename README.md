@@ -29,22 +29,23 @@ Component's library I created for Altium Designer.
 - 1S 18650 PTH and SMD
 
 ## Buttons & Switches
-- TST3635
-- Toggle Switch
-- SS12F23
-- SS12F15
-- SS12D10
-- SS12D07L2B
-- SS12D06
-- SS12D00G4
-- Push Button 12x12
-- Push Button 6x6 SMD
-- Push Button 6x6
-- Push Button 5.2x5.2 SMD
-- Push Button 3x4x2 SMD
-- Dip Switch 3 Vias PTH and SMD
-- Button Latch 6 Pins 8x8
+
 - Button Latch 6 Pins 7x7
+- Button Latch 6 Pins 8x8
+- Push Button 3x4x2 SMD
+- Push Button 5.2x5.2 SMD
+- Push Button 6x6
+- Push Button 6x6 SMD
+- Push Button 12x12
+- Dip Switch 3 Vias PTH and SMD
+- SS12D00G4
+- SS12D06
+- SS12D07L2B
+- SS12D10
+- SS12F15
+- SS12F23
+- Toggle Switch
+- TST3635
 
 ## Ceramic Capacitor
 - 0805 generic
@@ -54,15 +55,15 @@ Component's library I created for Altium Designer.
 - 220 (3d)
 
 ## Communication
-- XBEE
-- Shield Ethernet (progress)
-- RF433 Transmitter and Receiver
+- HC-05
+- HC-06
+- Infrared Receiver
+- Infrared Receiver Module (progress)
 - NRF24L01 Antenna
 - NRF24L01
-- Infrared Receiver Module (progress)
-- Infrared Receiver
-- HC-06
-- HC-05
+- RF433 Transmitter and Receiver
+- Shield Ethernet (progress)
+- XBEE
 
 ## Connectors
 - 2EDGK-5.08-3P
@@ -191,39 +192,39 @@ Component's library I created for Altium Designer.
 - LED 0805 (blue, green, red, white, yellow)
 
 ## Motor Drivers
-- TB6612FNG
-- Pololu TB6612FNG
-- Pololu DRV8256
-- Module TB6612FNG
+- A4988
+- L293D
 - Motor Shield L293D (progress)
 - L298N (progress)
-- L293D
+- TB6612FNG
+- Pololu TB6612FNG
+- Module TB6612FNG
+- Pololu DRV8256
 - DRV8874
-- A4988
 
 ## Other Microcontrollers
-- Raspberry Pi Pico
 - Blue Pill SMT32
+- Raspberry Pi Pico
 
 ## Potenciometers
-- Trimpot
-- Potenciometer SMD
-- Potenciometer
 - Joystick PS4 (3D)
+- Potenciometer 
+- Potenciometer SMD
+- Trimpot
 
 ## Random
-- TP4056 Chip and Module
-- SN74AHCT1G04DBVR
-- Rele General
-- PC817
-- Micro Start
-- G6k-2f-y
-- DW01A
-- DFPlayer Mini
-- Cristal 16Mhz PTH and SMD
-- Ceramic Resonator 3.2x1.3
 - Buzzer 12mm
+- Ceramic Resonator 3.2x1.3
+- Cristal 16Mhz PTH and SMD
+- DFPlayer Mini
+- DW01A
+- G6k-2f-y
+- Micro Start
 - NE555
+- PC817
+- Rele General
+- SN74AHCT1G04DBVR
+- TP4056 Chip and Module
 - 74HC595
 
 ## Resistors
@@ -234,32 +235,34 @@ Component's library I created for Altium Designer.
 - Resistor pth 14.5mm
 
 ## Sensors
-- TCRT5000
-- QRE1113
-- MPU6050
-- LDR 3mm
-- HC-SR04
-- DHT11
-- BMP280
 - BMP180
+- BMP280
+- DHT11
+- HC-SR04
+- LDR 3mm
+- MPU6050
+- QRE1113
+- TCRT5000
 
 ## Transistors
-- 8205s
-- WPM3407
-- FS8205A
 - FDN340P
 - J3Y
+- 8205s
+- FS8205A
+- WPM3407
 
 ## Voltage Regulators
-- XL4005
-- TPS73733
-- TPS56121DQPR 
-- MT3608
-- Module XL4005
-- Module LM2596
-- MINI350
-- LM2596
+- AMS1117
+- HW-613
 - LM1117T
 - L7805 PTH and SMD
-- HW-613
-- AMS1117
+- LM2596
+- Module LM2596
+- MINI350
+- MT3608
+- TPS73733
+- XL4005
+- Module XL4005
+- TPS56121DQPR
+- U3V40x Pololu
+- U3V70x Pololu
