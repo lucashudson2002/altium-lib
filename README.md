@@ -99,6 +99,7 @@ Component's library I created for Altium Designer.
 - JST 2.54mm 3 Pins 180º
 - JST 2.54mm 4 Pins 180º
 - JST 2.54mm 6 Pins 180º
+- JST 2.54mm 6 Pins 90º
 - Male 2.54mm 1 Pins 180º
 - Male 2.54mm 2 Pins 180º
 - Male 2.54mm 2x5 Pins 180º
@@ -219,6 +220,8 @@ Component's library I created for Altium Designer.
 - DFPlayer Mini
 - DW01A
 - G6k-2f-y
+- HLK-5M05
+- HLK-PM01
 - Micro Start
 - NE555
 - PC817
@@ -259,6 +262,7 @@ Component's library I created for Altium Designer.
 - LM2596
 - Module LM2596
 - MINI350
+- MP2307DN
 - MT3608
 - TPS73733
 - XL4005
