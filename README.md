@@ -195,6 +195,7 @@ Component's library I created for Altium Designer.
 
 ## Motor Drivers
 - A4988
+- Module A4988
 - L293D
 - Motor Shield L293D (progress)
 - L298N (progress)
