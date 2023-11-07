@@ -105,6 +105,7 @@ Component's library I created for Altium Designer.
 - Male 2.54mm 2x5 Pins 180º
 - Male 2.54mm 2x5 Pins 90º
 - Male 2.54mm 3 Pins 180º
+- Male 2.54mm 3x2 Pins 180º
 - Male 2.54mm 4 Pins 180º
 - Male 2.54mm 5 Pins 180º
 - Male 2.54mm 6 Pins 180º
