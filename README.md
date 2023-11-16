@@ -116,6 +116,7 @@ Component's library I created for Altium Designer.
 - Micro USB
 - USB C
 - XT-60 Male and Female
+- XT-60PW Male and Female
 
 ## Diode
 - 1N4007
