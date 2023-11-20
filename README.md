@@ -62,7 +62,6 @@ Component's library I created for Altium Designer.
 - NRF24L01 Antenna
 - NRF24L01
 - RF433 Transmitter and Receiver
-- Shield Ethernet (progress)
 - XBEE
 
 ## Connectors
@@ -198,8 +197,7 @@ Component's library I created for Altium Designer.
 - A4988
 - Module A4988
 - L293D
-- Motor Shield L293D (progress)
-- L298N (progress)
+- L298N
 - TB6612FNG
 - Pololu TB6612FNG
 - Module TB6612FNG
@@ -211,7 +209,7 @@ Component's library I created for Altium Designer.
 - Raspberry Pi Pico
 
 ## Potenciometers
-- Joystick PS4 (3D)
+- Joystick PS4
 - Potenciometer 
 - Potenciometer SMD
 - Trimpot
