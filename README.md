@@ -242,6 +242,7 @@ Component's library I created for Altium Designer.
 - BMP180
 - BMP280
 - DHT11
+- DHT22
 - HC-SR04
 - LDR 3mm
 - MPU6050
